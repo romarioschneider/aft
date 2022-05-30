@@ -1,0 +1,7 @@
+ct_management_account_id    = "596966523393"
+log_archive_account_id      = "314854817426"
+audit_account_id            = "435016453613"
+aft_management_account_id   = "061070186226"
+github_username             = "romarioschneider"
+ct_home_region              = "eu-central-1"
+tf_backend_secondary_region = "us-east-1"
