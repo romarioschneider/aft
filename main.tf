@@ -1,5 +1,5 @@
 module "aft" {
-  source = "github.com/aws-ia/terraform-aws-control_tower_account_factory?ref=1.4.0"
+  source = "github.com/aws-ia/terraform-aws-control_tower_account_factory?ref=1.4.2"
   ct_management_account_id    = "596966523393"
   log_archive_account_id      = "314854817426"
   audit_account_id            = "435016453613"
